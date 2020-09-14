@@ -11,15 +11,12 @@ function App() {
       return
     }
     setCount(prevCount => prevCount - 1)
-    // setCount(prevState => {
-    //   return { ...prevState, count: prevState.count - 1}
-    // })
-    setTheme('個に減ったよ😓')
+    setTheme('個に減りましたよ😓')
   }
 
   function increamentCount() {
     setCount(prevCount => prevCount + 1)
-    setTheme('個に増えたよ🥰')
+    setTheme('個に増えましたよ🥰')
   }
 
   return (

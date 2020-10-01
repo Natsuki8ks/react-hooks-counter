@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-hooks-counter/static/css/main.a9be9882.chunk.css",
+    "main.css": "/react-hooks-counter/static/css/main.9ae0e6fa.chunk.css",
     "main.js": "/react-hooks-counter/static/js/main.6bb3fd72.chunk.js",
     "main.js.map": "/react-hooks-counter/static/js/main.6bb3fd72.chunk.js.map",
     "runtime-main.js": "/react-hooks-counter/static/js/runtime-main.7750bf4c.js",
@@ -8,15 +8,15 @@
     "static/js/2.55128f28.chunk.js": "/react-hooks-counter/static/js/2.55128f28.chunk.js",
     "static/js/2.55128f28.chunk.js.map": "/react-hooks-counter/static/js/2.55128f28.chunk.js.map",
     "index.html": "/react-hooks-counter/index.html",
-    "precache-manifest.a87bc7a3875b4bfd739f2d5e7e5c3526.js": "/react-hooks-counter/precache-manifest.a87bc7a3875b4bfd739f2d5e7e5c3526.js",
+    "precache-manifest.55c13a0b287021cb8c2ae6751e90d179.js": "/react-hooks-counter/precache-manifest.55c13a0b287021cb8c2ae6751e90d179.js",
     "service-worker.js": "/react-hooks-counter/service-worker.js",
-    "static/css/main.a9be9882.chunk.css.map": "/react-hooks-counter/static/css/main.a9be9882.chunk.css.map",
+    "static/css/main.9ae0e6fa.chunk.css.map": "/react-hooks-counter/static/css/main.9ae0e6fa.chunk.css.map",
     "static/js/2.55128f28.chunk.js.LICENSE.txt": "/react-hooks-counter/static/js/2.55128f28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7750bf4c.js",
     "static/js/2.55128f28.chunk.js",
-    "static/css/main.a9be9882.chunk.css",
+    "static/css/main.9ae0e6fa.chunk.css",
     "static/js/main.6bb3fd72.chunk.js"
   ]
 }
